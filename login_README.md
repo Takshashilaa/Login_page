@@ -65,10 +65,11 @@ input[type= "submit"]:hover{
 }   
 
 </style>
+    
 </head>
 <body>
     <div class="container">
-    <h1> Intern Crowd</h1>  </div>
+    <h1> Intern Crowd</h1></div>
     <div class="container">
     <img id="box" src="Tablet login.png" alt="">
    <h3>Doesn't have an account yet? <a href="#">Sign Up</a></h3> 
@@ -81,6 +82,5 @@ input[type= "submit"]:hover{
    <br>
    <br><br>
    </div>
-
 </body>
 </html>
